@@ -42,3 +42,8 @@ This API provides a list of public APIs including name, description, category, a
 2. Open index.html in browser
 3. Internet required for API
 
+## Notes
+- Data is fetched from a public API using fetch()
+- Displays first 30 items for better performance
+- Includes loading state and error handling
+
