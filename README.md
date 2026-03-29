@@ -12,10 +12,10 @@ The purpose of this project is to demonstrate JavaScript API integration, dynami
 
 ## API Used
 
-Public APIs Directory API
-https://api.publicapis.org/entries
+API Used:
+https://api.sampleapis.com/codingresources/codingResources
 
-This API provides a list of public APIs including name, description, category, and link.
+This API provides a list of coding resources including title, description, category, and link.
 
 ## Features Planned
 
