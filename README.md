@@ -1,18 +1,17 @@
 # ToolVerse - Startup Tools Dashboard
 
-ToolVerse is a web application that displays useful developer and startup tools using a public API.
+ToolVerse is a simple web application that displays useful developer and startup tools using a public API. It helps users explore different tools, search for them, and organize results easily.
 
+##  Features
 
-## Features
-
-- Fetch data from public API using fetch
+- Fetch data from a public API using JavaScript fetch
 - Display tools dynamically on the webpage
 - Search tools by name
-- Filter tools by category
-- Sort tools (A-Z / Z-A)
-- Responsive UI design
+- Filter tools based on category
+- Sort tools alphabetically (A-Z / Z-A)
+- Responsive and clean user interface
 
-## Technologies Used
+##  Technologies Used
 
 - HTML
 - CSS
@@ -24,17 +23,28 @@ ToolVerse is a web application that displays useful developer and startup tools 
 
 https://api.sampleapis.com/codingresources/codingResources
 
-##  How to Run
 
-1. Download or clone the repository
-2. Open `index.html` in your browser
+##  Live Demo
+
+https://onlyhimank.github.io/toolverse-dashboard/
+
+
+##  How to Run Locally
+
+1. Clone or download the repository  
+2. Open the project folder  
+3. Open `index.html` in your browser  
 
 
 ##  Project Purpose
 
-This project demonstrates API integration, dynamic UI rendering, and the use of JavaScript higher-order functions such as filter and sort.
+The purpose of this project is to demonstrate:
+- API integration using fetch  
+- Dynamic rendering of data  
+- Use of JavaScript higher-order functions like filter and sort  
+- Basic UI design and responsiveness  
 
 
-##  Author
+## Author
 
 Himank Sain
