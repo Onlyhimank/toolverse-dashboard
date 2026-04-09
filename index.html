@@ -8,6 +8,21 @@
   <body>
     <h1>ToolVerse</h1>
     <p class="subtitle">Discover useful public APIs for developers</p>
+    <div class="controls">
+      <input type="text" id="search" placeholder="Search tools..." />
+
+      <select id="filter">
+        <option value="all">All Categories</option>
+        <option value="General">General</option>
+        <option value="API Design">API Design</option>
+        <option value="Development">Development</option>
+      </select>
+
+      <select id="sort">
+        <option value="asc">A-Z</option>
+        <option value="desc">Z-A</option>
+      </select>
+    </div>
 
     <div id="loading">Loading tools...</div>
 
